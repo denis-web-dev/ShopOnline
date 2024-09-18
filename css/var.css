@@ -1,0 +1,8 @@
+:root {
+	/* контейнер */
+	--container-width: 1800px;
+	--container-padding: 15px;
+
+	/* шрифт текста */
+	--font-accent: 'Lato', sans-serif;
+}

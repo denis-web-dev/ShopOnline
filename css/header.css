@@ -44,6 +44,7 @@
 	border-radius: 50px;
 	background: #efefef;
 	outline: none;
+	max-width: 757px;
 }
 .search-btn {
 	position: absolute;
